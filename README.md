@@ -2,4 +2,4 @@
 
 This is the facebook Login page
 <br>
-Author - Bhavishya raj (Students)
+Author - Bhavishya raj (Student)
